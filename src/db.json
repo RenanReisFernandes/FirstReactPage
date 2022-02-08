@@ -1,0 +1,17 @@
+{
+    "clients":[],
+    "categories":[
+        {
+            "id": 1,
+            "name": "cliente"
+        },
+        {
+            "id": 2,
+            "name": "viagens"
+        },
+        {
+            "id": 3,
+            "name": "promocoes"
+        }
+    ]
+}

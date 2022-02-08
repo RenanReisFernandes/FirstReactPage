@@ -1,0 +1,11 @@
+.container-fluid{
+    padding: 0;
+}
+
+#mainSlider .carousel-inner, #mainSlider .carousel-item{
+    height: 40vh;
+}
+
+#mainSlider .carousel-caption{
+    top: 30%;
+}

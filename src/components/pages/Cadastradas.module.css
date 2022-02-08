@@ -1,0 +1,14 @@
+.viagensCad_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.viagensCad_container h1{
+    margin-bottom: .5em ;
+
+}
+
+.viagensCad_container p{
+    color: rgb(156, 193, 236);
+}
